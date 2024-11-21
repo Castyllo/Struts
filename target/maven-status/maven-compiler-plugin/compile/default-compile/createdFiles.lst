@@ -1,0 +1,6 @@
+com\mycompany\struts1castillo\action\HelloWorldAction.class
+com\mycompany\struts1castillo\model\MessageStore.class
+com\mycompany\struts1castillo\resources\JavaEE8Resource.class
+com\mycompany\struts1castillo\action\Register.class
+com\mycompany\struts1castillo\model\Person.class
+com\mycompany\struts1castillo\JAXRSConfiguration.class
